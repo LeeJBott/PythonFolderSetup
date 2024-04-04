@@ -1,3 +1,0 @@
-The data/ directory serves as a central location for storing all data files used by your application.
-This directory might contain various types of data files, such as CSV files, JSON files, text files, database files, etc.
-Data files stored in this directory could include raw data, processed data, temporary data, configuration files, or any other data relevant to your application.
